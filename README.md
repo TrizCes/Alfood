@@ -1,3 +1,9 @@
+#Sobre
+
+Esse projeto faz parte da trilha de formação do programa Desenvolve 2023, uma parceria entre a Alura e o Grupo Boticário. 
+
+
+###Dicas da Alura: 
 ![Integrando seu projeto React com APIs](thumbnail.png)
 
 # Alfood
